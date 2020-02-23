@@ -1,0 +1,15 @@
+# Windows
+Desktop.ini
+
+# Python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations
+test.py
+dont_forget.txt
+SqlFunction/dbmysql.py
